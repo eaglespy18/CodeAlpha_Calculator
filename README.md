@@ -57,7 +57,7 @@ Copy code
 
 ---
 
-## 🏁 CodeAlpha Internship
+## 🏁 CodeAlpha paid Internship
 **Batch:** October 2025  
 **Task:** #2 — Build a Calculator  
 **Organization:** [CodeAlpha](https://www.codealpha.tech)  
