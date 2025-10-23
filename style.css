@@ -14,6 +14,7 @@ body {
   background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
   background-size: 200% 200%;
   animation: gradientShift 10s ease infinite;
+  color: #fff;
 }
 
 /* ===== CALCULATOR BOX ===== */
@@ -36,7 +37,7 @@ body {
   text-align: center;
   color: #00d4ff;
   margin-bottom: 15px;
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   letter-spacing: 1px;
   text-shadow: 0 0 10px rgba(0, 212, 255, 0.6);
 }
@@ -73,7 +74,7 @@ body {
   color: #fff;
   box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
   cursor: pointer;
-  transition: all 0.2s ease;
+  transition: all 0.15s ease-in-out;
 }
 
 .btn:hover {
@@ -83,10 +84,24 @@ body {
   box-shadow: 0 0 15px #00d4ff;
 }
 
+/* ===== BUTTON PRESS ANIMATION ===== */
+.btn:active {
+  transform: scale(0.95);
+  background: #009fc1;
+  box-shadow: 0 0 12px #00bcd4 inset;
+}
+
+/* ===== OPERATOR BUTTONS ===== */
 .operator {
   background: rgba(0, 212, 255, 0.2);
 }
 
+.operator:hover {
+  background: #00bcd4;
+  box-shadow: 0 0 12px #00bcd4;
+}
+
+/* ===== EQUAL BUTTON ===== */
 .equal {
   grid-column: span 1;
   background: #00d4ff;
@@ -99,6 +114,13 @@ body {
   box-shadow: 0 0 20px #00bcd4;
 }
 
+.equal:active {
+  transform: scale(0.93);
+  background: #009fc1;
+  box-shadow: inset 0 0 20px #00bcd4;
+}
+
+/* ===== ZERO BUTTON ===== */
 .zero {
   grid-column: span 2;
 }
