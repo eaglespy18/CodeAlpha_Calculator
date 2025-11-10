@@ -51,7 +51,7 @@ Copy code
 ---
 
 ## 🧑‍💻 Author
-**Mohammed Khidir Alhassan**  
+**Alhassan Mohammed Khidir**  
 📧 Email: [alhassankhidir@gmail.com](mailto:alhassankhidir@gmail.com)  
 🌐 GitHub: [github.com/eaglespy18](https://github.com/eaglespy18)  
 
