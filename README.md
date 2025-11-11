@@ -52,6 +52,7 @@ Copy code
 
 ## 🧑‍💻 Author
 **Alhassan Mohammed Khidir**  
+    Telephone Number : [0243395565]
 📧 Email: [alhassankhidir@gmail.com](mailto:alhassankhidir@gmail.com)  
 🌐 GitHub: [github.com/eaglespy18](https://github.com/eaglespy18)  
 
