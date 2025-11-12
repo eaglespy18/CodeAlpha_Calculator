@@ -51,6 +51,8 @@ Copy code
 ---
 
 ## 🧑‍💻 Author
+## About the author
+
 Name : Alhassan Mohammed Khidir  
  Telephone Number: +233 243395565
 📧 Email: [alhassankhidir@gmail.com](mailto:alhassankhidir@gmail.com)  
