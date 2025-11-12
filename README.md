@@ -54,8 +54,8 @@ Copy code
 ## About the author
 
 Name : Alhassan Mohammed Khidir  
- Telephone Number: +233 243395565
-📧 Email: [alhassankhidir@gmail.com](mailto:alhassankhidir@gmail.com)  
+ Telephone Number: +233 243395565 alt: 0505360284
+ 📧 Email: [alhassankhidir@gmail.com](mailto:alhassankhidir@gmail.com)  
 🌐 GitHub: [github.com/eaglespy18](https://github.com/eaglespy18)  
 
 ---
