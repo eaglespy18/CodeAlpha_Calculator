@@ -51,7 +51,6 @@ Copy code
 ---
 
 ## 🧑‍💻 Author
-## About the author
 
 Name : Alhassan Mohammed Khidir  
  Telephone Number: +233 243395565 alt: +233 505360284
