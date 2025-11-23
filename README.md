@@ -21,7 +21,6 @@ This project is part of the **CodeAlpha Internship (October Batch)** tasks.
 - **CSS3** – for styling and layout  
 - **JavaScript (ES6)** – for calculator logic and interactivity  
 
----
 
 ## ⚙️ How It Works
 1. Click or type numbers and operators to form an expression.  
