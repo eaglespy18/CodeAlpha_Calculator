@@ -48,7 +48,6 @@ Copy code
 [🔗 View on GitHub Pages](https://<your-username>.github.io/CodeAlpha_Calculator/)  
 *(After deployment — update this link once you publish it.)*
 
----
 
 ## 🧑‍💻 Author
 
