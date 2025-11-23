@@ -29,7 +29,7 @@ This project is part of the **CodeAlpha Internship (October Batch)** tasks.
 3. Use **C** to clear and **⌫** to delete the last character.  
 4. Works with both mouse clicks and keyboard keys.  
 
----
+
 
 ## 📂 Project Structure
 CodeAlpha_Calculator/
