@@ -57,7 +57,7 @@ Name : Alhassan Mohammed Khidir
  📧 Email: [alhassankhidir@gmail.com](mailto:alhassankhidir@gmail.com)  
 🌐 GitHub: [github.com/eaglespy18](https://github.com/eaglespy18)  
 
----
+
 
 ## 🏁 CodeAlpha paid Internship
 **Batch:** October 2025  
