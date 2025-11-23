@@ -42,7 +42,7 @@ CodeAlpha_Calculator/
 yaml
 Copy code
 
----
+
 
 ## 🚀 Live Demo
 [🔗 View on GitHub Pages](https://<your-username>.github.io/CodeAlpha_Calculator/)  
