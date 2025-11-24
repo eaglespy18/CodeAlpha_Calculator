@@ -4,7 +4,6 @@
 This project is part of the **CodeAlpha Internship (October Batch)** tasks.  
 **Task 2: Build a Calculator** — The goal is to create a simple, functional calculator using **HTML**, **CSS**, and **JavaScript**.
 
----
 
 ## 🧠 Features
 - Performs all basic arithmetic operations: **Addition (+)**, **Subtraction (−)**, **Multiplication (×)**, **Division (÷)**, and **Modulus (%)**
