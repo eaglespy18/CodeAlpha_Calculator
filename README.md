@@ -13,7 +13,6 @@ This project is part of the **CodeAlpha Internship (October Batch)** tasks.
 - Error handling for invalid expressions
 - Fully responsive for mobile and desktop
 
----
 
 ## 🖥️ Technologies Used
 - **HTML5** – for the calculator structure  
