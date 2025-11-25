@@ -17,7 +17,7 @@ This project is part of the **CodeAlpha Internship (October Batch)** tasks.
 ## 🖥️ Technologies Used
 - **HTML5** used for the calculator structure  
 - **CSS3** used for styling and layout  
-- **JavaScript (ES6)** – for calculator logic and interactivity  
+- **JavaScript (ES6)** used for calculator logic and interactivity  
 
 
 ## ⚙️ How It Works
