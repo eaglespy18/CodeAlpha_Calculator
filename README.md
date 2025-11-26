@@ -1,6 +1,6 @@
 # 🧮 CodeAlpha Calculator
 
-## 📋 Task Overview
+## 📋 Task Overview of the Calculator
 This project is part of the **CodeAlpha Internship (October Batch)** tasks.  
 **Task 2: Build a Calculator** — The goal is to create a simple, functional calculator using **HTML**, **CSS**, and **JavaScript**.
 
