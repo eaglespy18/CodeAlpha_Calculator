@@ -20,7 +20,7 @@ This project is part of the **CodeAlpha Internship (October Batch)** tasks.
 - **JavaScript (ES6)** used for calculator logic and interactivity  
 
 
-## ⚙️ How thr Calculator Works
+## ⚙️ How the Calculator Works
 1. Click or type numbers and operators to form an expression.  
 2. Press **=** or **Enter** to see the result.  
 3. Use **C** to clear and **⌫** to delete the last character.  
