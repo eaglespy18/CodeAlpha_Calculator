@@ -1,4 +1,4 @@
-# 🧮 CodeAlpha Calculator
+# 🧮 CodeAlpha Calculator project
 
 ## 📋 Task Overview of the Calculator
 This project is part of the **CodeAlpha Internship (October Batch)** tasks.  
